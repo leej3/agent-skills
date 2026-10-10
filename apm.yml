@@ -1,0 +1,6 @@
+name: web-interface-review
+version: 0.1.0
+description: APM distribution of the selected upstream UX skill.
+type: skill
+includes:
+  - skills/web-design-guidelines
